@@ -1,0 +1,7 @@
+go 1.20
+
+use (
+	./broker-service
+	./front-end
+	./authentication-service
+)
